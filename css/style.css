@@ -82,7 +82,7 @@ font-family: 'Proza Libre', sans-serif;
   border-radius: 28px;
   border: 1px solid #ffffff;
   cursor: pointer;
-  color: #231942;
+  color: #ffffff;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -101,14 +101,6 @@ font-family: 'Proza Libre', sans-serif;
 .recipe {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
-}
-
-.a {
-
-}
-
-.c {
-
 }
 
 .time {
