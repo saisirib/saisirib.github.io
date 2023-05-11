@@ -90,13 +90,18 @@ font-family: 'Proza Libre', sans-serif;
 }
 
 .myButton:hover {
-    background-color:#e69708;
+  background-color: rgba(0,0,0,.2);
 }
 
 .myButton:active {
     position:relative;
     top:1px;
 }
+
+a {
+  color: #00b09b;
+}
+
 
 .project {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 40%);
